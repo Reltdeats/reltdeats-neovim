@@ -1,0 +1,2 @@
+# reltdeats-neovim
+Neovim config

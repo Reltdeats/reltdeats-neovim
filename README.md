@@ -1,2 +1,3 @@
 # reltdeats-neovim
+
 Neovim config

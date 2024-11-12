@@ -13,7 +13,7 @@ return {
 				{
 					mode = { "n" },
 					"<Leader>ff",
-					builtin.find_files,
+					builtin.find_files, 
 					desc = "Find files",
 				},
 				{
